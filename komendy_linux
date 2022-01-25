@@ -11,11 +11,11 @@ Polecenia związane z plikami i katalogami:
 |-----------------------------------------------------------------------------------------------------------------------------------------------------|
 |4. cd      | (Change Directory)        | #Zmiana katalogu bieżącego                                                                                  |
 |                                                                                                                                                     |  
-|        -> cd /home/user/Muzyka – przeniesienie z bieżącego katalogu do katalogu /home/user/Muzyka                                                   |
-|        -> cd nazwa_katalogu – przeniesienie do katalogu „nazwa_katalogu” podrzędnego w stosunku do aktualnego                                       |
-|        -> cd (bez argumentów) – przeniesienie do naszego katalogu domowego                                                                          |
-|        -> cd ../ – przeniesienie do katalogu nadrzędnego                                                                                            |
-|        -> cd - – przeniesienie do poprzedniego katalogu bieżącego                                                                                   |    
+|        -> cd /home/user/Muzyka – przejście z bieżącego katalogu do katalogu /home/user/Muzyka                                                       |
+|        -> cd nazwa_katalogu – przejście do katalogu „nazwa_katalogu” podrzędnego w stosunku do aktualnego                                           |
+|        -> cd (bez argumentów) – przejście do naszego katalogu domowego                                                                              |
+|        -> cd ../ – przejście do katalogu nadrzędnego                                                                                                |
+|        -> cd - – przejście do poprzedniego katalogu bieżącego                                                                                       |    
 |-----------------------------------------------------------------------------------------------------------------------------------------------------|    
 |5. rmdir   | (Remove Directory)        | #Usunięcie katalogu, np 'rmdir new_folder'                                                                  |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------|
